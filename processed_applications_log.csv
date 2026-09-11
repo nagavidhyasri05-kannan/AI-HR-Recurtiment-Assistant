@@ -1,0 +1,6 @@
+Application ID,Candidate,Applied Role,Matched Role,Match Score (%),Status,Handled By,Time Taken (sec)
+APP-2201,Aravind S,Software Engineer,Software Engineer,100.0,Interview Scheduled,Scheduling Agent,0.92
+APP-2202,Priya M,Data Analyst,Data Analyst,100.0,Interview Scheduled,Scheduling Agent,0.86
+APP-2203,Karthik R,Senior Manager,Senior Manager,100.0,Escalated,Human Recruiter,1.03
+APP-2204,Divya N,HR Executive,HR Executive,47.5,Rejected (Eligibility),Screening Agent,1.19
+APP-2205,Suresh K,Software Engineer,Software Engineer,100.0,Interview Scheduled,Scheduling Agent,0.67
